@@ -1,0 +1,13 @@
+// required to get $orange variable
+@import "../node_modules/bootstrap/scss/functions"; 
+@import "../node_modules/bootstrap/scss/variables";
+
+$primary: $orange; // set the $primary variable
+
+// merge with existing $theme-colors map
+$theme-colors: map-merge($theme-colors, (
+  "danger": #FF6347,
+  "secondary": #FFC0C7,
+));
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss"

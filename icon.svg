@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 335.71 131.54">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ec2744;
+      }
+
+      .cls-2 {
+        letter-spacing: -.26em;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #f2634b;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-4 {
+        font-family: Microsoft-Yi-Baiti, 'Microsoft Yi Baiti';
+        font-size: 140px;
+        font-style: italic;
+        stroke: #222129;
+        stroke-width: .5px;
+      }
+    </style>
+  </defs>
+  <text class="cls-4" transform="translate(8.43 107.98)"><tspan class="cls-3" x="0" y="0">G</tspan><tspan class="cls-2" x="82.71" y="0">	</tspan><tspan class="cls-1" x="108" y="0">A&amp;A</tspan></text>
+  <text/>
+  <text/>
+</svg>
